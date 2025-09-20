@@ -1,6 +1,6 @@
 # 🌟 Habibi Coin (HBB)
 
-![Habibi Coin Logo](blockchains/smartchain/assets/0x7b73c55d8799e4632Dc3E40D1fB8521B844CDcB0/logo.png)
+blockchains/smartchain/assets/0x7b73c55d8779E4632Dc3E04D1fb85218B44CDcB0/logo.png
 
 ---
 
