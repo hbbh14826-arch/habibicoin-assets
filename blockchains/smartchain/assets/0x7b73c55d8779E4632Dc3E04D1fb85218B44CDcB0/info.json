@@ -3,11 +3,11 @@
   "symbol": "HBB",
   "type": "BEP20",
   "decimals": 18,
-  "description": "HabibiCoin (HBB) is a community-driven meme token built on Binance Smart Chain. Our mission is to spread love and positive vibes across the crypto world while offering fun utilities and building a strong community.",
-  "website": "https://habibicoin.fun/",
-  "explorer": "https://bscscan.com/token/0x7b73c55d8799e4632Dc3E40D1fB8521B844CDcB0",
+  "description": "HabibiCoin (HBB) is a community-driven meme token built on Binance Smart Chain (BEP-20). Our mission is to spread love and positive vibes across the crypto world while offering fun utilities and building a strong community.",
+  "website": "https://habibicoin.fun",
+  "explorer": "https://bscscan.com/token/0x7b73c55d8799e4632dc3e40d1fb8521b844cdcb0",
   "status": "active",
-  "id": "0x7b73c55d8799e4632Dc3E40D1fB8521B844CDcB0",
+  "id": "0x7b73c55d8799e4632dc3e40d1fb8521b844cdcb0",
   "links": [
     {
       "name": "telegram",
