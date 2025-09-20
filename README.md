@@ -3,6 +3,7 @@
 ![Habibi Coin Logo](blockchains/smartchain/assets/0x7b73c55d8799e4632Dc3E40D1fB8521B844CDcB0/logo.png)
 
 
+
 ![BEP20](https://img.shields.io/badge/Token-ERC20%20%2F%20BEP20-yellow) 
 ![Network](https://img.shields.io/badge/Network-Binance%20Smart%20Chain-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
