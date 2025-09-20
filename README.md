@@ -31,9 +31,9 @@ We are here to spread love ❤️, good memes 📸, and maybe make you **wen Lam
 
 ## 🔗 Official Links
 - 🌐 [Website](https://habibicoin.fun/)
-- 🐦 [Twitter (X)](https://x.com/HabibiCoin1)
+- 🐦 [Twitter (X)](https://x.com/Habibi_Coin1)
 - 💬 [Telegram](https://t.me/HABIBICOINN)
-- 📄 [BscScan](https://bscscan.com/token/0x7b73c55d8799e4632Dc3E40D1fB8521B844CDcB0)
+- 📄 [BscScan](https://bscscan.com/token/0x7B73C55D8799E4632DC3E40D1fb8521B844cdCb0)
 
 ---
 
